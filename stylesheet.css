@@ -1,0 +1,67 @@
+.top{
+    background-image: url('home_page.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.text-top{
+    color: white;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+.hotel-name{
+    font-size: 4rem;
+}
+
+.tombol{
+    margin-left: 335px;
+    margin-top: 50px;
+}
+
+.middle{
+    padding-top: 30px;
+}
+
+.breakfast-announce{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+img{
+    width: 350px;
+}
+
+.row{
+    padding-left: 200px;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+.beach{
+    margin-top: 30px;
+}
+
+.testimonials{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.testimonials h2{
+    padding-bottom: 20px;
+}
+
+.footer{
+    text-align: center;
+    background-color: darkblue;
+    height: 50px;
+}
+
+.footer a{
+    color: white;
+}
